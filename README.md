@@ -7,7 +7,7 @@
 ### Сейчас работаю над игрой ДУЭЛЯНТ. 🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй в желаемое [STEAM](https://store.steampowered.com/app/2854500) и [VK PLAY](https://vkplay.ru/play/game/duelant).
 <div id="header" align="center" width="600">
   
-  <br/>[![Трейлер](https://i.ytimg.com/vi/QF5KlZHlQ6M/maxresdefault.jpg)](https://youtu.be/QF5KlZHlQ6M?list=PLpsRQjMJIh4sX0KF09hJf69BwBvLgWAul)
+  <br/>[![Трейлер](https://i.ytimg.com/vi/_CvOt1RWb0Y/maxresdefault.jpg)](https://youtu.be/_CvOt1RWb0Y?list=PLpsRQjMJIh4sX0KF09hJf69BwBvLgWAul)
 </div>
   
 ## 💻 Tехнологии:
@@ -45,7 +45,7 @@
 </p>
 
 ## 💰 Подкинь на кофеёк 👍
-[![Donation Alerts](https://img.shields.io/badge/%D0%9A%D1%83%D0%BF%D0%B8%20%D0%BA%D0%BE%D1%84%D0%B5%D1%91%D0%BA-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.donationalerts.com/r/mikhail_e) 
+[![Donation Alerts](https://img.shields.io/badge/%D0%9A%D1%83%D0%BF%D0%B8%20%D0%BA%D0%BE%D1%84%D0%B5%D1%91%D0%BA-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.donationalerts.com/r/AbsoluteMikhail) 
 
 ## 📊 GitHub стата:
 Я анрильщик плюсовик, надо просто больше проектов залить...
@@ -53,8 +53,8 @@
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=romandviski&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 -->
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=romandviski&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=romandviski&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=AbsoluteMikhail&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoluteMikhail&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 ## 🏆 GitHub Trophies
