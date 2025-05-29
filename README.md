@@ -4,7 +4,7 @@
 
 # 💫 Обо мне:
 ## Михаил Ефремов разработчик игр, Абсолютный Михаил, это я =)
-### Мои игры. 🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй в желаемое [STEAM](https://store.steampowered.com/developer/GamePunk-Studio).
+###  🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй в желаемое <a href="https://store.steampowered.com/developer/GamePunk-Studio" target="_blank" rel="noopener noreferrer">STEAM</a>
 
 [![Мои игры](https://absolutemikhail.github.io/images/placeholder.jpg)](https://absolutemikhail.github.io)
   
