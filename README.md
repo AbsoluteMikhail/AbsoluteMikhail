@@ -2,16 +2,11 @@
   <img src="https://media.giphy.com/media/I8HijDw5wDESNMyzRv/giphy-downsized-large.gif" width="100"/>
 </div>
 
-### YouTube (пример)
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
 # 💫 Обо мне:
-## Ефремов Михаил разработчик, Абсолютный Михаил, это я =)
-### Сейчас работаю над игрой ДУЭЛЯНТ. 🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй в желаемое [STEAM](https://store.steampowered.com/app/2854500) и [VK PLAY](https://vkplay.ru/play/game/duelant).
-<div id="header" align="center" width="600">
-  
-  <br/>[![Трейлер](https://i.ytimg.com/vi/_CvOt1RWb0Y/maxresdefault.jpg)](https://youtu.be/_CvOt1RWb0Y?list=PLpsRQjMJIh4sX0KF09hJf69BwBvLgWAul)
-</div>
+## Михаил Ефремов разработчик игр, Абсолютный Михаил, это я =)
+### Мои игры. 🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй в желаемое [STEAM](https://store.steampowered.com/developer/GamePunk-Studio).
+
+[![Мои игры](https://absolutemikhail.github.io/images/placeholder.jpg)](https://absolutemikhail.github.io)
   
 ## 💻 Tехнологии:
 ![My Skills](https://skillicons.dev/icons?i=cpp,unreal,git)
