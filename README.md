@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/I8HijDw5wDESNMyzRv/giphy-downsized-large.gif" width="100"/>
 </div>
 
+### YouTube (пример)
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
 # 💫 Обо мне:
 ## Ефремов Михаил разработчик, Абсолютный Михаил, это я =)
 ### Сейчас работаю над игрой ДУЭЛЯНТ. 🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй в желаемое [STEAM](https://store.steampowered.com/app/2854500) и [VK PLAY](https://vkplay.ru/play/game/duelant).
