@@ -4,11 +4,13 @@
 
 # 💫 Обо мне:
 ## Абсолютный Михаил Ефремов разработчик игр на Unreal Engine
-###  🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 Добавляй игры в желаемое [STEAM](https://store.steampowered.com/developer/GamePunk-Studio)
-
-Геймплей-программист, ментор, Unreal Engine, Blueprints, С++. Работаю с Unreal Engine c 2015 года...
+<br/>Геймплей-программист, ментор, Unreal Engine, Blueprints, С++. Работаю с Unreal Engine c 2015 года...
 <br/>Ставил воздушные бои для фильма "Воздух". Победитель геймдев хакатона "Синеус 2023" в СОЛО! 
 <br/>И просто Абсолютный Михаил 😎👌🔥
+
+###  Добавляй игры в желаемое [STEAM](https://store.steampowered.com/developer/GamePunk-Studio) 🤠 /̵͇̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿💥 🤯 
+
+
 
 [![Мои игры](https://absolutemikhail.github.io/images/placeholder.jpg)](https://absolutemikhail.github.io)
   
